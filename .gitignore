@@ -1,0 +1,10 @@
+/build
+/.vscode
+
+# CMake
+CMakeLists.txt.user
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
